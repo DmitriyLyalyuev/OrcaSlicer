@@ -13,7 +13,7 @@ namespace GUI {
 
 class Plater;
 
-#define PRINT_JOB_SENDING_TIMEOUT   25
+#define PRINT_JOB_SENDING_TIMEOUT   60
 
 class PrintPrepareData
 {
